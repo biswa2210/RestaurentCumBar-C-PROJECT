@@ -19,19 +19,13 @@
 
 <div align="justified">
  
+This is a Restaurent cum Bar. Here I have created main menu. Then there are various options like order section, bill section, coupon etc. In orders there are veg, non veg and alcoholic and non alcoholic drinks. Here I have added variety of items to make this applicatio user friendly and fun. Here are coupon and lucky draw games and options. Then there is billing section for customer. I have added various ideas of restaurant management. I have designedthe output using colours and lines. It is created using file handling and other C concepts.
+
 </div>
 
 ## RESTAURENT CUM BAR DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
 
 ## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
-
-## Purpose :point_down:
-
-<div align="justified">
-
-
-</div>
-
 
 ## Folder Structure :point_down:
 
@@ -40,7 +34,33 @@
 
 <div align="center">
 
-<a href=""><img src="" width="800" height= "400"></a>
+<a href="res0.png"><img src="res0.png" width="800" height= "400"></a>
+
+<a href="res1.png"><img src="res1.png" width="800" height= "400"></a>
+
+<a href="res2.png"><img src="res2.png" width="800" height= "400"></a>
+
+<a href="res3.png"><img src="res3.png" width="800" height= "400"></a>
+
+<a href="res4.png"><img src="res4.png" width="800" height= "400"></a>
+
+<a href="res5.png"><img src="res5.png" width="800" height= "400"></a>
+
+<a href="res6.png"><img src="res6.png" width="800" height= "400"></a>
+
+<a href="res7.png"><img src="res7.png" width="800" height= "400"></a>
+
+<a href="res8.png"><img src="res8.png" width="800" height= "400"></a>
+
+<a href="res9.png"><img src="res9.png" width="800" height= "400"></a>
+
+<a href="res10.png"><img src="res10.png" width="800" height= "400"></a>
+
+<a href="res11.png"><img src="res11.png" width="800" height= "400"></a>
+
+<a href="res12.png"><img src="res12.png" width="800" height= "400"></a>
+
+<a href="res13.png"><img src="res13.png" width="800" height= "400"></a>
 
 </div>
 
