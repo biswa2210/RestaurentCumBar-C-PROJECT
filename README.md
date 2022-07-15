@@ -28,10 +28,10 @@ This is a Restaurent cum Bar. Here I have created main menu. Then there are vari
 ## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
 
 ## Folder Structure :point_down:
-
+```bash
 RESTAURENT CUM BAR
         └── r & b.c
-        
+```       
 ## Screenshots :point_down: 
 
 <div align="center">
