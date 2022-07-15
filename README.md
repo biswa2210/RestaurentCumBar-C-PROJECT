@@ -21,6 +21,10 @@
  
 </div>
 
+## RESTAURENT CUM BAR DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
+
+## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
@@ -28,31 +32,16 @@
 
 </div>
 
-## Use :point_down:
-
-<div align="justified">
- 
-
-</div>
 
 ## Folder Structure :point_down:
 
 
-## Making :point_down:
-
-
-    
 ## Screenshots :point_down: 
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href=""><img src="" width="800" height= "400"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
-
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
-
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
 </div>
 
 
