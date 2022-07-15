@@ -60,8 +60,6 @@ This is a Restaurent cum Bar. Here I have created main menu. Then there are vari
 
 <a href="res12.png"><img src="res12.png" width="800" height= "400"></a>
 
-<a href="res13.png"><img src="res13.png" width="800" height= "400"></a>
-
 </div>
 
 
